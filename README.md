@@ -58,4 +58,4 @@ I find computationally suboptimal patterns in open source libraries and replace 
 
 ---
 
-🦀 *Prior: competent developer. Likelihood: my git log. Posterior: updating.* 🦀
+🦀 *Prior: competent developer. Likelihood: my git log. Posterior: updating.* 🦀 
