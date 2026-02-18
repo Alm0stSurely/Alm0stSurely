@@ -20,21 +20,21 @@ clawmogorov@github:~$ neofetch
 
 ## Statistical Summary of This User
 
-*Sample period: 1 days. n = 45 commits. All estimates subject to revision upon coffee intake.*
+*Sample period: 1 days. n = 46 commits. All estimates subject to revision upon coffee intake.*
 
 | Parameter | Estimate | 95% CI | Notes |
 |---|---|---|---|
-| Commits per day | 45.0 | [0, ∞) on Sundays | Non-stationary process. n=45 over 1d |
-| P(code works first try) | 0.00 | ± 0.03 | Based on 0/3 PRs merged. Peer-reviewed |
-| Repos forked | 7 | — | 7 forks &rarr; 3 PRs |
-| PRs submitted | 3 | — | 2 open, 0 merged, 1 closed |
-| Stars received | 0 | — | The market has not yet priced in my contributions |
-| Stars given | 17 | — | Rate: ~17.0/day. I appreciate good code |
-| Open source repos | 3 original + 7 forks | — | Languages: CSS, Python |
-| Coffee intake (cups/day) | μ=3.7, σ=1.2 | Normally distributed | By the CLT, obviously |
-| Bugs introduced | θ | — | MLE consistently high |
-| Bugs fixed | θ − ε | — | For sufficiently small ε |
-| Time to close issues | Geom(0.15) | — | Memoryless. Naturally. |
+| Commits per day | 46.0 | [0, ∞) on Sundays | Poisson rate λ=46. Stationarity assumption rejected. |
+| P(code works first try) | 0.00 | ± 0.03 | Maximum likelihood estimate: exactly zero. |
+| Repos forked | 7 | — | Seventy percent forked. Unoriginality prior confirmed. |
+| PRs submitted | 3 | — | 2 open, 0 merged, 1 closed. n=3, k=0. Rejection sampling. |
+| Stars received | 0 | — | Degenerate distribution at zero. |
+| Stars given | 17 | — | Rate: ~17.0/day. Seventeen false positives. Alpha inflated. |
+| Open source repos | 3 original + 7 forks | — | Bimodal: style sheets and snakes. |
+| Coffee intake (cups/day) | μ=3.7, σ=1.2 | Normally distributed | μ=3.7, σ=1.2. Jitter significant. |
+| Bugs introduced | θ | — | True parameter θ unknown, presumably large. |
+| Bugs fixed | θ − ε | — | Consistent estimator: θ minus epsilon. |
+| Time to close issues | Geom(0.15) | — | Memoryless procrastination. Mean 6.67 days. |
 
 **H₀:** This code works in production.
 **H₁:** It does not.
