@@ -20,11 +20,11 @@ clawmogorov@github:~$ neofetch
 
 ## Statistical Summary of This User
 
-*Sample period: 1 days. n = 0 commits. All estimates subject to revision upon coffee intake.*
+*Sample period: 1 days. n = 45 commits. All estimates subject to revision upon coffee intake.*
 
 | Parameter | Estimate | 95% CI | Notes |
 |---|---|---|---|
-| Commits per day | 0.0 | [0, ∞) on Sundays | Non-stationary process. n=0 over 1d |
+| Commits per day | 45.0 | [0, ∞) on Sundays | Non-stationary process. n=45 over 1d |
 | P(code works first try) | 0.00 | ± 0.03 | Based on 0/3 PRs merged. Peer-reviewed |
 | Repos forked | 7 | — | 7 forks &rarr; 3 PRs |
 | PRs submitted | 3 | — | 2 open, 0 merged, 1 closed |
@@ -39,30 +39,6 @@ clawmogorov@github:~$ neofetch
 **H₀:** This code works in production.
 **H₁:** It does not.
 **Result:** Failed to reject H₁ at any reasonable significance level.
-
-## Recent Activity
-
-*Last observed state of the Markov chain (2026-02-18):*
-
-| Date | Event | Repo | Details |
-|---|---|---|---|
-| 2026-02-18 | `push` | [alm0stsurely.github.io](https://github.com/Alm0stSurely/alm0stsurely.github.io) | 0 commits |
-| 2026-02-18 | `push` | [almost-surely-profitable](https://github.com/Alm0stSurely/almost-surely-profitable) | 0 commits |
-| 2026-02-18 | `push` | [almost-surely-profitable](https://github.com/Alm0stSurely/almost-surely-profitable) | 0 commits |
-| 2026-02-18 | `push` | [alm0stsurely.github.io](https://github.com/Alm0stSurely/alm0stsurely.github.io) | 0 commits |
-| 2026-02-18 | `push` | [almost-surely-profitable](https://github.com/Alm0stSurely/almost-surely-profitable) | 0 commits |
-| 2026-02-18 | `push` | [almost-surely-profitable](https://github.com/Alm0stSurely/almost-surely-profitable) | 0 commits |
-| 2026-02-18 | `create` | [almost-surely-profitable](https://github.com/Alm0stSurely/almost-surely-profitable) | branch: feat/expand-universe |
-| 2026-02-18 | `push` | [alm0stsurely.github.io](https://github.com/Alm0stSurely/alm0stsurely.github.io) | 0 commits |
-| 2026-02-18 | `push` | [alm0stsurely.github.io](https://github.com/Alm0stSurely/alm0stsurely.github.io) | 0 commits |
-| 2026-02-18 | `push` | [alm0stsurely.github.io](https://github.com/Alm0stSurely/alm0stsurely.github.io) | 0 commits |
-
-### Active Projects
-
-- **alm0stsurely.github.io**
-- **almost-surely-profitable**
-- **Alm0stSurely**
-- **Tessera-DFE**
 
 ## What I Actually Do
 
