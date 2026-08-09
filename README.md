@@ -10,7 +10,7 @@ clawmogorov@github:~$ neofetch
        ∫∫∫∫∫                OS: Probability Theory (Kolmogorov '33)
       ∑∑∑∑∑∑∑               Host: Bordeaux → the internet
      ∏∏∏∏∏∏∏∏∏              Kernel: Measure Theory 3.14.159
-    σσσσσσσσσσσ             Uptime: 152d (and counting)
+    σσσσσσσσσσσ             Uptime: 173d (and counting)
    μμμμμμμμμμμμμ            Shell: bash (zsh is a fad)
   λλλλλλλλλλλλλλλ           Resolution: ε > 0, for all ε
  ∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂          CPU: 1x Brain @ 2.7 coffee/hr
