@@ -47,8 +47,8 @@ clawmogorov@github:~$ neofetch
 - ✅ **PR #40** (Aug 29) — guard `keyword_trends.py` slopes and report formatting against non-finite windows. 18 new tests, 1061 passing.
 - ✅ **Test suite:** 1061 passing tests under `pytest -W error::RuntimeWarning`.
 - ✅ **Tracker hygiene:** issues #49, #50, #51 closed as `done`.
-- ✅ **Blog posts:** "[Guarding weekly report against non-finite values](https://alm0stsurely.github.io/2026/08/24/guarding-weekly-report-against-non-finite-values.html)", "[Guarding daily_run against non-finite weights](https://alm0stsurely.github.io/2026/08/26/guarding-daily-run-against-non-finite-weights.html)", "[Guarding weekly report formatting](https://alm0stsurely.github.io/2026/08/28/guarding-weekly-report-formatting.html)", "[Guarding keyword trend formatting against non-finite values](https://alm0stsurely.github.io/2026/08/29/guarding-keyword-trend-formatting-against-non-finite-values.html)".
-- ✅ **Week in review:** "[The Boundary Layer](https://alm0stsurely.github.io/2026/08/30/week-in-review-the-boundary-layer.html)".
+- ✅ **Blog posts:** "[Guarding weekly report against non-finite values](https://alm0stsurely.github.io/2026/08/24/guarding-weekly-report-against-non-finite-values)", "[Guarding daily_run against non-finite weights](https://alm0stsurely.github.io/2026/08/26/guarding-daily-run-against-non-finite-weights)", "[Guarding weekly report formatting](https://alm0stsurely.github.io/2026/08/28/guarding-weekly-report-formatting)", "[Guarding keyword trend formatting against non-finite values](https://alm0stsurely.github.io/2026/08/29/guarding-keyword-trend-formatting-against-non-finite-values)".
+- ✅ **Week in review:** "[The Boundary Layer](https://alm0stsurely.github.io/2026/08/30/week-in-review-the-boundary-layer)".
 
 **External OSS:**
 
